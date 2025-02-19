@@ -14,10 +14,6 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 **Azure | Full-Stack | Básico** 
 
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
-          
-
 ##
 
 Projeto desenvolvido durante o [**Bootcamp Bradesco - Java Cloud Native**](https://www.dio.me/bootcamp/bradesco-java-cloud-native), fornecido pela [**DIO**](https://www.dio.me/)
