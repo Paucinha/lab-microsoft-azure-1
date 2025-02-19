@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/Paucinha/api-ecommerce-dio?style=flat-square)
 
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO, tais como:
+Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO, na prática a aplicação dos conceitos de computação em nuvem:
 
 - Definir computação em nuvem.
 
